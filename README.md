@@ -28,7 +28,7 @@ by Tesla as pre-delivery issue(s).
 - [ ] Inspect paint on the outside and the door jams, ensure panel corners do not have chips
 - [ ] Inspect paint around intake vents on the front bumper
 - [ ] Check for damage to black rocker panels
-- [ ] Ispect undercarriage
+- [ ] Inspect undercarriage
 
 ## Interior
 
@@ -40,7 +40,7 @@ by Tesla as pre-delivery issue(s).
 - [ ] Open and close the glovebox
 - [ ] Open and close windows using one click open close and manually open and close. (make sure there are no noises and they stay up when you close, and when they go down they do all the way down for front two windows. The rear two windows don't go down all the way.
 - [ ] Verify backup camera
-- [ ] Play a famliar track through the sound system and confirm that all speakers work and there are no unexpected clicks, etc.
+- [ ] Play a familiar track through the sound system and confirm that all speakers work and there are no unexpected clicks, etc.
 - [ ] Fold mirrors
 - [ ] Check all interior lights, and that all reading lights turn on with a press
 - [ ] Check windshield all around
@@ -57,7 +57,7 @@ by Tesla as pre-delivery issue(s).
 - [ ] Inspect floor mats for rips, stains, etc.
 - [ ] Inspect the metal accelerator and brake pedal arms; there have been
 [reports](https://www.reddit.com/r/TeslaModelY/comments/gyhim1/is_this_normal_my_brake_pedal_arm_has_a_welded/) of
-different finish on pedals (matte on accelerator, glossy on break) and a conspicuous weld in the middle of the break pedal
+different finish on pedals (matte on accelerator, glossy on break) and a conspicuous weld in the middle of the brake pedal
 - [ ] Turn on climate control, force the heat pump to kick in (by taking the temperature to either end of the scale) and listen for loud noises
 - [ ] Confirm (car battery) charging works
 
@@ -71,8 +71,8 @@ different finish on pedals (matte on accelerator, glossy on break) and a conspic
 
 ## Trunk
 
-- [ ] Open & close the lift gate; sometimes the gasket gets caught in the molding causing a click 
-- [ ] Comfirm the lift gate opens and closes without "shuddering" and that the button on the hatch works to close it
+- [ ] Open & close the lift gate; sometimes the gasket gets caught in the molding, causing a click 
+- [ ] Confirm the lift gate opens and closes without "shuddering" and that the button on the hatch works to close it
 - [ ] Inspect cargo covers and verify they're properly attached
 - [ ] Confirm seat & trunk buttons fold the back seats
 - [ ] Confirm folding rear seats do not catch on the rear trunk floor carpeting 
@@ -80,7 +80,7 @@ different finish on pedals (matte on accelerator, glossy on break) and a conspic
 - [ ] Confirm the charging cable and the [J1772 adapter](https://shop.tesla.com/product/sae-j1772-charging-adapter) aren't missing
 
 ## Final thoughts about your delivery inspection
-Please don't be that guy that block Tesla deliveries and staff for hours going over your new car with a microscope.
+Please don't be "that guy" that block Tesla deliveries and staff for hours going over your new car with a microscope.
 You can report all of the above after you get home, at your leisure: you have a day/100 miles. It’s not like you won’t
 accept the car because of some minor issue that can be fixed by a mobile service tech later (but won’t be fixed at
 pickup). Critical things to check on site are VIN, color, wheels, etc. and critical safety, like being able to
@@ -90,8 +90,7 @@ lock/unlock the car and put it in park. Check the local super charger while you 
 
 Should anyting escape factory QC, service center QC, and the above cheklist here are some last resort options to be aware of:
 
-- You have 72 hours/100 miles to **refuse
-delivery**. The 72 hours refers to items subject to "wear and tear," such as paint defects, scratches,
+- You have 72 hours/100 miles to **refuse delivery**. The 72 hours refers to items subject to "wear and tear," such as paint defects, scratches,
 etc. Any item that would normally be covered under warranty is still covered under warranty. Things like blemishes,
 scratches, dings, scuffs, aren't covered by any car company.
 
@@ -104,4 +103,4 @@ doing so restricts your next Tesla order: "If you decide to order another vehicl
 a period of 12 months but may order another vehicle in a different trim at any time."
 
 
-Pull requests for changes/addtions welcome.
+Pull requests for changes/additions welcome.
